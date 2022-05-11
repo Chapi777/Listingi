@@ -1,0 +1,12 @@
+C:\Users\student\source\repos\RG\RG\obj\Debug\RG.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\RG\RG\obj\Debug\RG.Form1.resources
+C:\Users\student\source\repos\RG\RG\obj\Debug\RG.Properties.Resources.resources
+C:\Users\student\source\repos\RG\RG\obj\Debug\RG.csproj.GenerateResource.cache
+C:\Users\student\source\repos\RG\RG\obj\Debug\RG.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\RG\RG\bin\Debug\RG.exe.config
+C:\Users\student\source\repos\RG\RG\bin\Debug\RG.exe
+C:\Users\student\source\repos\RG\RG\bin\Debug\RG.pdb
+C:\Users\student\source\repos\RG\RG\obj\Debug\RG.exe
+C:\Users\student\source\repos\RG\RG\obj\Debug\RG.pdb
+C:\Users\student\source\repos\RG\RG\obj\Debug\RG.Form2.resources
+C:\Users\student\source\repos\RG\RG\obj\Debug\RG.Form3.resources
