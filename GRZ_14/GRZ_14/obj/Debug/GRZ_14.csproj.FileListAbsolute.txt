@@ -1,0 +1,12 @@
+C:\Users\student\source\repos\GRZ_14\GRZ_14\bin\Debug\GRZ_14.exe.config
+C:\Users\student\source\repos\GRZ_14\GRZ_14\bin\Debug\GRZ_14.exe
+C:\Users\student\source\repos\GRZ_14\GRZ_14\bin\Debug\GRZ_14.pdb
+C:\Users\student\source\repos\GRZ_14\GRZ_14\obj\Debug\GRZ_14.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\GRZ_14\GRZ_14\obj\Debug\GRZ_14.Form1.resources
+C:\Users\student\source\repos\GRZ_14\GRZ_14\obj\Debug\GRZ_14.Properties.Resources.resources
+C:\Users\student\source\repos\GRZ_14\GRZ_14\obj\Debug\GRZ_14.csproj.GenerateResource.cache
+C:\Users\student\source\repos\GRZ_14\GRZ_14\obj\Debug\GRZ_14.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\GRZ_14\GRZ_14\obj\Debug\GRZ_14.exe
+C:\Users\student\source\repos\GRZ_14\GRZ_14\obj\Debug\GRZ_14.pdb
+C:\Users\student\source\repos\GRZ_14\GRZ_14\obj\Debug\GRZ_14.Form2.resources
+C:\Users\student\source\repos\GRZ_14\GRZ_14\obj\Debug\GRZ_14.Form3.resources

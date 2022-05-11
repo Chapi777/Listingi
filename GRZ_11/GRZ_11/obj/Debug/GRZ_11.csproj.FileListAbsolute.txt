@@ -1,0 +1,12 @@
+C:\Users\student\source\repos\GRZ_11\GRZ_11\bin\Debug\GRZ_11.exe.config
+C:\Users\student\source\repos\GRZ_11\GRZ_11\bin\Debug\GRZ_11.exe
+C:\Users\student\source\repos\GRZ_11\GRZ_11\bin\Debug\GRZ_11.pdb
+C:\Users\student\source\repos\GRZ_11\GRZ_11\obj\Debug\GRZ_11.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\GRZ_11\GRZ_11\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\student\source\repos\GRZ_11\GRZ_11\obj\Debug\GRZ_11.csproj.ResolveComReference.cache
+C:\Users\student\source\repos\GRZ_11\GRZ_11\obj\Debug\GRZ_11.Form1.resources
+C:\Users\student\source\repos\GRZ_11\GRZ_11\obj\Debug\GRZ_11.Properties.Resources.resources
+C:\Users\student\source\repos\GRZ_11\GRZ_11\obj\Debug\GRZ_11.csproj.GenerateResource.cache
+C:\Users\student\source\repos\GRZ_11\GRZ_11\obj\Debug\GRZ_11.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\GRZ_11\GRZ_11\obj\Debug\GRZ_11.exe
+C:\Users\student\source\repos\GRZ_11\GRZ_11\obj\Debug\GRZ_11.pdb
