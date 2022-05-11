@@ -1,0 +1,12 @@
+C:\Users\Администратор\source\repos\YAEB\YAEB\bin\Debug\YAEB.exe.config
+C:\Users\Администратор\source\repos\YAEB\YAEB\bin\Debug\YAEB.exe
+C:\Users\Администратор\source\repos\YAEB\YAEB\bin\Debug\YAEB.pdb
+C:\Users\Администратор\source\repos\YAEB\YAEB\obj\Debug\YAEB.Form1.resources
+C:\Users\Администратор\source\repos\YAEB\YAEB\obj\Debug\YAEB.Properties.Resources.resources
+C:\Users\Администратор\source\repos\YAEB\YAEB\obj\Debug\YAEB.csproj.GenerateResource.cache
+C:\Users\Администратор\source\repos\YAEB\YAEB\obj\Debug\YAEB.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\YAEB\YAEB\obj\Debug\YAEB.exe
+C:\Users\Администратор\source\repos\YAEB\YAEB\obj\Debug\YAEB.pdb
+C:\Users\Администратор\source\repos\YAEB\YAEB\obj\Debug\YAEB.csproj.AssemblyReference.cache
+C:\Users\Администратор\source\repos\YAEB\YAEB\obj\Debug\YAEB.Form2.resources
+C:\Users\Администратор\source\repos\YAEB\YAEB\obj\Debug\YAEB.Form3.resources
