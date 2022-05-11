@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GRZ_prod", "GRZ_prod\GRZ_prod.csproj", "{A37A7F1A-56CE-42DE-9478-57AA3EFCAD16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A37A7F1A-56CE-42DE-9478-57AA3EFCAD16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A37A7F1A-56CE-42DE-9478-57AA3EFCAD16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A37A7F1A-56CE-42DE-9478-57AA3EFCAD16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A37A7F1A-56CE-42DE-9478-57AA3EFCAD16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {245AD9F1-CBA1-482E-8CB9-45D6EB3D42DC}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+C:\Users\student\source\repos\GRZ_prod\GRZ_prod\bin\Debug\GRZ_prod.exe.config
+C:\Users\student\source\repos\GRZ_prod\GRZ_prod\bin\Debug\GRZ_prod.exe
+C:\Users\student\source\repos\GRZ_prod\GRZ_prod\bin\Debug\GRZ_prod.pdb
+C:\Users\student\source\repos\GRZ_prod\GRZ_prod\obj\Debug\GRZ_prod.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\GRZ_prod\GRZ_prod\obj\Debug\GRZ_prod.Form1.resources
+C:\Users\student\source\repos\GRZ_prod\GRZ_prod\obj\Debug\GRZ_prod.Properties.Resources.resources
+C:\Users\student\source\repos\GRZ_prod\GRZ_prod\obj\Debug\GRZ_prod.csproj.GenerateResource.cache
+C:\Users\student\source\repos\GRZ_prod\GRZ_prod\obj\Debug\GRZ_prod.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\GRZ_prod\GRZ_prod\obj\Debug\GRZ_prod.exe
+C:\Users\student\source\repos\GRZ_prod\GRZ_prod\obj\Debug\GRZ_prod.pdb
